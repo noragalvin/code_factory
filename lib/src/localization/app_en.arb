@@ -1,0 +1,6 @@
+{
+  "appTitle": "code_factory",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
